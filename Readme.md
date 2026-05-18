@@ -131,14 +131,14 @@ A collection of early ideation sketches and learning-phase renders exploring:
 
 ## 📄 Resume
 
-👉 [View Resume](./Ganesh_Padakanti_Resume.pdf)
+👉 [View Resume](./_Ganesh_padakanti_Resume.pdf)
 
 ---
 
 ## 📫 Contact
 
-- Email: your-email-here
-- LinkedIn: your-linkedin-here
+- Email: padakantiganesh666@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ganeshpadakanti/
 
 ---
 
