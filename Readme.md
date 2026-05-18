@@ -131,7 +131,7 @@ A collection of early ideation sketches and learning-phase renders exploring:
 
 ## 📄 Resume
 
-👉 [View Resume](./_Ganesh_padakanti_Resume.pdf)
+👉 [View Resume](./_Ganesh_padakanti_Resume_.pdf)
 
 ---
 
